@@ -1,5 +1,5 @@
 {
-  "name": "aesis_dev/yii2-language-selector",
+  "name": "curly-deni/yii2-language-selector",
   "description": "Aesis Yii2 extension for language selector",
   "keywords": [
     "yii2",
@@ -10,7 +10,7 @@
   "type": "yii2-extension",
   "license": "MIT",
   "support": {
-    "source": "https://gitlab.com/aesis_dev/yii2-language-selector"
+    "source": "https://github.com/curly-deni/yii2-language-selector"
   },
   "minimum-stability": "dev",
   "require": {
